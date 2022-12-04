@@ -11,4 +11,4 @@ Magenta #FF00FF
 Verde #00FF00
 Cyan #00FFFF
 Amarillo #FFFF00
-Blanco #FFFFFF 
+Blanco #FFFFFF

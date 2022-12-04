@@ -22,7 +22,7 @@ Cyan #00FFFF
 Amarillo #FFFF00
 Blanco #FFFFFF  -->
 
-<?php
+    <?php
 include 'funlib.php';
 
 echo "<table border = 1>";
